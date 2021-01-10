@@ -1,3 +1,7 @@
+**********
+Source https://github.com/JamesP6000/WsprryPi
+**********
+
 Raspberry Pi bareback LF/MF/HF/VHF WSPR transmitter
 
 Makes a very simple WSPR beacon from your RasberryPi by connecting GPIO
@@ -20,7 +24,7 @@ Installation / update:
 ******
   Download and compile code:
     sudo apt-get install git
-    git clone https://github.com/JamesP6000/WsprryPi.git
+    git clone https://github.com/IsaevTA/WsprryPi.git
     cd WsprryPi
     make
 
